@@ -1,4 +1,4 @@
-## Luca Fasone
+
 <p align="center"><img src="https://leetcard.jacoblin.cool/LucaFasone"width="320px" /></p>
 <!--
 **LucaFasone/LucaFasone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
