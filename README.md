@@ -1,6 +1,5 @@
 
-<p align="center"><img src="https://leetcard.jacoblin.cool/LucaFasone" alt="https://leetcard.jacoblin.cool/LucaFasone" width="320px" /></p>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/LucaFasone?theme=dark&font=Averia%20Libre)
 <!--
 **LucaFasone/LucaFasone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
